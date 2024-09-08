@@ -1,0 +1,5 @@
+Gestiona cambios en el código fácilmente.  
+Permite trabajar en ramas diferentes.  
+Guarda un historial detallado de cambios.  
+Facilita la colaboración en proyectos globales.  
+Se integra con plataformas como GitHub.  
